@@ -5,7 +5,7 @@ seu objetivo é o estudo dessa biblioteca
 
 ### Como executar
 
-Para executar basta instalar as dependencias rodando o comando ... yarn ... no seu terminal. E depois executar o comando ... yarn start... .
+Para executar basta instalar as dependencias rodando o comando ``` yarn ``` no seu terminal. E depois executar o comando ``` yarn start``` .
 
 ### Sobre a Biblioteca Redux :
 
@@ -13,4 +13,4 @@ Segundo a Devmedia o Redux é uma biblioteca JavaScript criada pelo Facebook par
 
 ### Para Saber Mais
 
-A documentação do Redux é bem completa e se encontra em redux.js.org
+A documentação do Redux é bem completa e se encontra em [redux.js.org](https://redux.js.org).
